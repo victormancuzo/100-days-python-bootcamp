@@ -1,0 +1,94 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Página-1" id="iNrm6XeJv9SEK2U7MkL_">
+    <mxGraphModel dx="2250" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-4" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-1" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-90" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-2" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="1305" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-6" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-3" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Recepcionar os participantes (mostrar logo do art.py)" vertex="1">
+          <mxGeometry height="80" width="120" x="10" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-8" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-5" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Perguntar o nome do licitante" vertex="1">
+          <mxGeometry height="80" width="120" x="180" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-12" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-7" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Perguntar o valor do lance do licitante" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-13" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="867" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-9" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Salvar o nome e o lance em um dicionário {nome: valor}" vertex="1">
+          <mxGeometry height="80" width="120" x="522" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-16" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-14" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Perguntar se há outro(s) licitante(s) para participar" vertex="1">
+          <mxGeometry height="80" width="120" x="690" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-21" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1149" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-31" connectable="0" parent="7-T8SWbb1Hl9TJ03c6y4-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1524" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-15" parent="1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;labelPosition=center;" value="Há outro licitante?" vertex="1">
+          <mxGeometry height="50" width="50" x="861" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-23" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-20" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Encontrar o maior lance no dicionário" vertex="1">
+          <mxGeometry height="80" width="120" x="975" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-24" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-22" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Anunciar licitante com o maior lance como vencedor" vertex="1">
+          <mxGeometry height="80" width="120" x="1140" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-28" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-T8SWbb1Hl9TJ03c6y4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-T8SWbb1Hl9TJ03c6y4-25" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Limpar a tela" vertex="1">
+          <mxGeometry height="80" width="120" x="522" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7ioyfANOd9JLFFIiok3B-1" edge="1" parent="1" source="7-T8SWbb1Hl9TJ03c6y4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="7-T8SWbb1Hl9TJ03c6y4-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="886" y="66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ioyfANOd9JLFFIiok3B-2" connectable="0" parent="7ioyfANOd9JLFFIiok3B-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.8806" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
